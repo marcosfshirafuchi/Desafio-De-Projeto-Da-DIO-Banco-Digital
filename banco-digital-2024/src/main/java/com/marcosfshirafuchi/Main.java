@@ -7,6 +7,17 @@ import java.util.Scanner;
 
 public class Main {
 
+    /**
+     * <h1>Criando um Banco Digital com Java e Orientação a Objetos</h1>
+     * Desafio de projeto da DIO
+     * <p>
+     * <b>Note:</b> Desenvolvido na linguagem Java.
+     *
+     * @author  Marcos Ferreira Shirafuchi
+     * @version 1.0
+     * @since   09/05/2024
+     */
+
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         Locale.setDefault(Locale.US);
